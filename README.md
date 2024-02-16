@@ -12,6 +12,8 @@
 
 * kubectl
 * envsubst
+* jsonnet
+* python3
 
 
 # Docker image size
